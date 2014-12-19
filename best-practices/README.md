@@ -198,6 +198,7 @@ Sass
 
 * Use `image-url` and `font-url`, not `url`, so the asset pipeline will re-write
   the correct paths to assets.
+* Prefer mixins to `@extend`.
 
 Browsers
 --------
