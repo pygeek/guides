@@ -1,4 +1,7 @@
 describe SomeClass do
+  subject { Foo.new(valid_attributes) }
+
+  # These one-line specs use the object defined in the `subject` block
   it { should have_one(:association) }
   it { should validate_presence_of(:some_attribute) }
 

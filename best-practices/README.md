@@ -116,7 +116,6 @@ Testing
 * Use [stubs and spies] \(not mocks\) in isolated tests.
 * Use a single level of abstraction within scenarios.
 * Use an `it` example or test method for each execution path through the method.
-* Use `subject` blocks to define valid built objects for one-line specs.
 * Use [assertions about state] for incoming messages.
 * Use stubs and spies to assert you sent outgoing messages.
 * Use a [Fake] to stub requests to external services.
