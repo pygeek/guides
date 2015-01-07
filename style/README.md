@@ -75,18 +75,6 @@ Organization
 * Order methods so that methods are as close as possible to other methods they
   call.
 
-Swift
------
-
-[Sample](samples/Swift.swift)
-
-* Keep up with the Objective-C style guide above. Will highlight differences
-  here.
-* Use `let` whenever possible to make immutable variables
-* Name all parameters in functions and enum cases
-* Use trailing closures
-* Let the compiler infer the type whenever possible
-
 Python
 ------
 
