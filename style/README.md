@@ -74,13 +74,3 @@ Organization
   they call.
 * Order methods so that methods are as close as possible to other methods they
   call.
-
-Android
--------
-
-* Properties of views should be alphabetized, with the exception of `id`,
-  `layout_width`, and `layout_height` which should be placed first in that
-  order.
-
-[standard libraries]: http://www.haskell.org/ghc/docs/latest/html/libraries/index.html
-[Example]: /style/samples/haskell.hs#L41
