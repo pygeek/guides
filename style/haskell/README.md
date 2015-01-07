@@ -12,3 +12,6 @@ Haskell
 * Use comma-first style exports, records, and lists.
 * Use four-space indentation except the `where` keyword which is
   indented two spaces. [Example].
+
+[standard libraries]: http://www.haskell.org/ghc/docs/latest/html/libraries/index.html
+[Example]: /style/samples/haskell.hs#L41
