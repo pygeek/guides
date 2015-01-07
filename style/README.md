@@ -75,11 +75,6 @@ Organization
 * Order methods so that methods are as close as possible to other methods they
   call.
 
-HTML
-----
-
-* Prefer double quotes for attributes.
-
 Rails
 -----
 
