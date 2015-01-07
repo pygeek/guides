@@ -75,13 +75,6 @@ Organization
 * Order methods so that methods are as close as possible to other methods they
   call.
 
-Python
-------
-
-* Follow [PEP 8].
-
-[PEP 8]: http://www.python.org/dev/peps/pep-0008/
-
 Haskell
 -------
 
