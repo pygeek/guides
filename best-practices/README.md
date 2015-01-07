@@ -108,6 +108,7 @@ Testing
 
 * Avoid `any_instance` in rspec-mocks and mocha. Prefer [dependency injection].
 * Avoid `its`, `let`, `let!`, `specify`, and `before` in RSpec.
+* Avoid using `subject` explicitly in RSpec `it` blocks.
 * Avoid using instance variables in tests.
 * Disable real HTTP requests to external services with
   `WebMock.disable_net_connect!`.
