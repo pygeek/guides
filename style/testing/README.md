@@ -15,12 +15,12 @@ Testing
 [`expect` syntax]: http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax
 [`allow` syntax]: https://github.com/rspec/rspec-mocks#method-stubs
 [one-liners with an implicit subject]: https://github.com/rspec/rspec-expectations/blob/master/Should.md#one-liners
-[predicate-example]: predicate_tests.rb
+[predicate-example]: predicate_tests_spec.rb
 
 Acceptance Tests
 ----------------
 
-[Sample](acceptance_test.rb)
+[Sample](acceptance_test_spec.rb)
 
 * Avoid scenario titles that add no information, such as "successfully."
 * Avoid scenario titles that repeat the feature title.
@@ -46,7 +46,7 @@ Factories
 Unit Tests
 ----------
 
-[Sample](unit_test.rb)
+[Sample](unit_test_spec.rb)
 
 * Don't prefix `it` block descriptions with `should`. Use [Imperative mood]
   instead.

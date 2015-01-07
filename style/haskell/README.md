@@ -14,4 +14,4 @@ Haskell
   indented two spaces. [Example].
 
 [standard libraries]: http://www.haskell.org/ghc/docs/latest/html/libraries/index.html
-[Example]: /style/samples/haskell.hs#L41
+[Example]: /style/haskell/sample.hs#L41
