@@ -75,17 +75,6 @@ Organization
 * Order methods so that methods are as close as possible to other methods they
   call.
 
-Backbone
---------
-
-[Sample](samples/backbone.coffee)
-
-* Organize all objects in one `window.App` namespace.
-* Name collections the plural version of the model.
-* Name models without a suffix.
-* Name the router `App.Router`.
-* Name views with a `View` suffix.
-
 Ember
 -----
 * Don't put a space between the opening handlebars braces and the variable.
