@@ -75,10 +75,6 @@ Organization
 * Order methods so that methods are as close as possible to other methods they
   call.
 
-Ember
------
-* Don't put a space between the opening handlebars braces and the variable.
-
 Ruby
 ----
 
