@@ -1,7 +1,7 @@
 Sass
 ====
 
-[Sample](sass.scss)
+[Sample](sample.scss)
 
 Formatting
 ----------
