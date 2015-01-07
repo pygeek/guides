@@ -75,15 +75,6 @@ Organization
 * Order methods so that methods are as close as possible to other methods they
   call.
 
-ERb
----
-
-[Sample](samples/erb.rb)
-
-* When wrapping long lines, keep the method name on the same line as the ERb
-  interpolation operator and keep each method argument on its own line.
-* Prefer double quotes for attributes.
-
 HTML
 ----
 
