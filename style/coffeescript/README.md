@@ -18,4 +18,3 @@ CoffeeScript
   private variables and functions.
 * Use zero spaces before and one space after the colon in a colon assignment
   (i.e. classes, objects).
-
